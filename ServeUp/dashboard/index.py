@@ -39,9 +39,14 @@ def load_data():
 
     return pd.DataFrame()
 
+@st.cache_data
+def load_data():
+    return pd.read_csv("ServeUp/data/ServeUp_cleaned_data.csv")
+
 df = load_data()
 
-
+st.write(df.head())
+st.write(df.columns)
 
 st.title("🍽️ JUPENTA ServeUp Market Intelligence Dashboard")
 
