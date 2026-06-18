@@ -23,6 +23,22 @@ def load_data():
 
     return pd.read_csv("ServeUp_cleaned_data.csv")
 
+import os
+
+@st.cache_data
+def load_data():
+
+    st.write("Current Folder:")
+    st.write(os.getcwd())
+
+    st.write("Root Files:")
+    st.write(os.listdir())
+
+    st.write("ServeUp Folder:")
+    st.write(os.listdir("ServeUp"))
+
+    return pd.DataFrame()
+
 df = load_data()
 
 
