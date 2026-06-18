@@ -1,0 +1,56 @@
+Company,Website,Country,Category,Target Customer,Pricing,Key Features,Strengths,Weaknesses,Billing POS,Inventory,Online Ordering,Digital Menu,Analytics,Loyalty Program,Multi Branch,Payment Integration
+Petpooja,petpooja.com,India,Restaurant POS,"Small Restaurants, Cafes",Paid,"Billing, Inventory, Reports",Easy to use,Limited customization,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Posist (Restroworks),restroworks.com,India,Restaurant OS,"Small Restaurants, Cafes",Paid,"POS, Analytics, Inventory",Enterprise-grade,Expensive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+DotPe,dotpe.in,India,Ordering Platform,"Cafes, Small Restaurants",Custom Quote,"QR Menu, Ordering",Fast deployment,Limited inventory,No,No,Yes,Yes,Limited,No,No,Yes
+SlickPOS,slickpos.com,India,Restaurant POS,"Cafes, Small Restaurants",Paid,"Billing, Inventory",Affordable,Fewer integrations,Yes,Yes,No,No,Yes,No,Yes,Yes
+GoFrugal,gofrugal.com,India,Restaurant POS,"Bakeries, Cafes, Small Restaurants",Paid,"POS, CRM, Inventory",Flexible,Complex setup,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+UrbanPiper,urbanpiper.com,India,Ordering Platform,Small Restaurants,Custom Quote,Aggregator Integration,Strong integrations,Costly,No,No,Yes,No,Yes,No,Yes,No
+LimeTray,limetray.com,India,Ordering Platform,"Cafes, Small Restaurants",Custom Quote,"Website, Ordering",Good marketing tools,Premium pricing,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Torqus POS,torqus.com,India,Restaurant POS,Small Restaurants,Paid,"POS, Inventory",Stable,UI outdated,Yes,Yes,No,No,Yes,No,Yes,Yes
+eZee Optimus,ezeeabsolute.com,India,Restaurant POS,"Cafes, Small Restaurants",Paid,"POS, Reporting",Good support,Learning curve,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+IVEPOS,ivepos.com,India,Pos System,"Tea Shops, Juice Shops, Cafes",Paid,"POS, Inventory",Easy setup,Limited advanced features,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+HDPOS,hdpos.in,India,Restaurant POS,"Bakeries, Small Restaurants",Paid,"Billing, Inventory",Reliable,Old interface,Yes,Yes,No,No,Yes,No,Yes,Yes
+FusionResto,fusionresto.com,India,Restaurant POS,Small Restaurants,Paid,"POS, Kitchen Management",Restaurant focused,Limited integrations,Yes,Yes,No,No,Yes,No,No,Yes
+Marg ERP,margerp.com,India,Erp + Pos,"Bakeries, Restaurants",Paid,"Inventory, Accounting",Strong ERP,Complex UI,Yes,Yes,No,No,Yes,No,Yes,Yes
+Vyapar,vyaparapp.in,India,Restaurant POS,"Tea Shops, Juice Shops",Freemium,"Billing, Inventory",Affordable,Limited analytics,Yes,Yes,No,No,Basic,No,No,Yes
+Zoho Inventory,zoho.com,India,ERP + POS,"Bakeries, Cafes",Subscription,Stock Management,Affordable,No restaurant focus,No,Yes,No,No,Yes,No,Yes,No
+ERPNext POS,erpnext.com,India,Erp + Pos,"Bakeries, Cafes, Small Restaurants",Freemium,"ERP, POS",Open source,Technical setup,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+EasyRewardz,easyrewardz.com,India,Crm & Loyalty,"Cafes, Restaurants",Paid,"Loyalty, CRM",Customer retention,Cost,No,No,No,No,Yes,Yes,Yes,No
+Capillary Technologies,capillarytech.com,India,Crm & Loyalty,"Cafes, Restaurants",Enterprise,"Loyalty, Analytics",Advanced personalization,Expensive,No,No,No,No,Yes,Yes,Yes,No
+Ginesys,ginesys.in,India,Erp + Pos,"Bakeries, Cafes",Paid,"ERP, Inventory",Strong inventory,Complex setup,Yes,Yes,No,No,Yes,No,Yes,Yes
+Rista POS,ristaapps.com,India,Restaurant POS,"Cafes, Restaurants",Paid,"Billing, Inventory",Modern UI,Smaller ecosystem,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+Reach POS,reachaccountant.com,India,Pos System,"Cafes, Small Restaurants",Paid,"Billing, Inventory",Easy billing,Limited analytics,Yes,Yes,No,No,Basic,No,No,Yes
+POSBytz,posbytz.com,India,Cloud Pos,"Cafes, Bakeries",Subscription,"POS, Inventory, CRM",Cloud-based,Smaller market presence,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+StoreHippo POS,storehippo.com,India,Commerce + Pos,"Bakeries, Cafes",Paid,"Inventory, Online Orders",Omnichannel,Complex setup,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+MyHotelLine POS,myhotelline.com,India,Restaurant POS,Small Restaurants,Paid,"Billing, KOT, Reports",Affordable,Basic UI,Yes,Yes,No,No,Yes,No,Yes,Yes
+InnkeyPOS,innkeypos.com,India,Pos Solution,"Restaurants, Cafes",Paid,"POS, Inventory",Reliable support,Less modern interface,Yes,Yes,No,No,Yes,No,Yes,Yes
+Digirestro,digirestro.com,India,Restaurant OS,"Cafes, Restaurants",Paid,"POS, QR Ordering",Restaurant focused,Limited integrations,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+Foodiv,foodiv.com,India,Restaurant POS,"Cafes, Small Restaurants",Subscription,"Ordering, POS",Easy online ordering,Premium plans,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+OrderStack,orderstack.xyz,India,Ordering Platform,"Cafes, Tea Shops",Freemium,"QR Menu, Ordering",Quick deployment,Limited reporting,No,No,Yes,Yes,Limited,No,No,Yes
+Moksha POS,mokshapos.com,India,Restaurant POS,"Bakeries, Cafes",Paid,"POS, Inventory",Affordable,Small ecosystem,Yes,Yes,No,No,Yes,No,No,Yes
+Billberry POS,billberrypos.com,India,Pos System,"Tea Shops, Juice Shops",Paid,"Billing, Stock Management",Easy to use,Basic analytics,Yes,Yes,No,No,Basic,No,No,Yes
+Unicommerce,unicommerce.com,India,ERP + POS,"Bakeries, Cafes",Enterprise,"Inventory, Order Management",Strong logistics,Expensive,No,Yes,Yes,No,Yes,No,Yes,No
+RetailGraph,retailgraph.com,India,Erp + Pos,"Bakeries, Small Restaurants",Paid,"POS, Accounting",Strong ERP,Complex learning curve,Yes,Yes,No,No,Yes,No,Yes,Yes
+Logic ERP,logicerp.com,India,Erp + Pos,"Bakeries, Cafes",Paid,"Inventory, CRM",Comprehensive features,Costly,Yes,Yes,No,No,Yes,No,Yes,Yes
+Ciferon,ciferon.com,India,Restaurant OS,"Restaurants, Cafes",Paid,"POS, QR Menu, Kitchen Display",Modern UI,Newer player,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+EatOS India,eatos.com,India,Restaurant OS,"Restaurants, Cafes",Paid,"POS, Ordering, Analytics",Feature rich,Expensive,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+HyperSoft POS,hypersoft.co.in,India,Restaurant POS,"Cafes, Bakeries",Paid,"Billing, Inventory",Reliable operations,Older UI,Yes,Yes,No,No,Yes,No,Yes,Yes
+RestoHub,restohub.org,India,Restaurant POS,Small Restaurants,Paid,"POS, Inventory",Affordable,Limited ecosystem,Yes,Yes,No,No,Basic,No,No,Yes
+SalesPlay POS,salesplaypos.com,India,Cloud Pos,"Tea Shops, Juice Shops",Subscription,"POS, Loyalty",Easy setup,Limited advanced features,Yes,Yes,No,No,Yes,Yes,Yes,Yes
+Kylas CRM,kylas.io,India,Crm & Loyalty,"Cafes, Restaurants",Subscription,"CRM, Customer Management",Good customer tracking,Not POS-focused,No,No,No,No,Yes,Yes,Yes,No
+QueueBuster POS,queuebuster.co,India,Restaurant POS,"Cafes, Tea Shops, Juice Shops",Paid,"Billing, Inventory, Mobile POS",Mobile-first,Limited enterprise features,Yes,Yes,Yes,No,Yes,No,Yes,Yes
+JustBilling,justbilling.in,India,Pos System,"Cafes, Small Restaurants",Paid,"Billing, Inventory, GST, POS",Easy billing and GST compliance,Limited advanced analytics,Yes,Yes,No,No,Yes,No,Yes,Yes
+Retailware POS,retailware.in,India,Erp + Pos,"Bakeries, Cafes",Paid,"POS, Inventory, Accounting",Strong ERP integration,Complex learning curve,Yes,Yes,No,No,Yes,No,Yes,Yes
+Horizon ERP,horizonerp.com,India,Erp + Pos,"Bakeries, Restaurants",Paid,"Inventory, CRM, Accounting, POS",Comprehensive business management,Expensive for small businesses,Yes,Yes,No,No,Yes,No,Yes,Yes
+CaptainBiz,captainbiz.com,India,Restaurant POS,"Tea Shops, Juice Shops",Freemium,"Billing, Inventory, GST Invoicing",Affordable and easy to use,Limited restaurant-specific features,Yes,Yes,No,No,Yes,No,No,Yes
+TallyPrime POS,tallysolutions.com,India,Erp + Pos,"Bakeries, Small Restaurants",Paid,"Accounting, Inventory, Billing",Industry-trusted accounting,Not restaurant-focused,Yes,Yes,No,No,Yes,No,Yes,Yes
+FoodEngine POS,foodenginepos.com,India,Restaurant POS,"Cafes, Restaurants",Paid,"POS, Online Ordering, Inventory",Restaurant-specific workflows,Smaller user base,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes
+DigiMenu,digimenu.in,India,Ordering Platform,"Cafes, Tea Shops",Freemium,"QR Menu, Digital Menu, Contactless Ordering",Quick setup and low cost,Limited analytics,No,No,Yes,Yes,Limited,No,No,Yes
+MenuDrive India,menudrive.com,India,Ordering Platform,"Cafes, Restaurants",Paid,"Online Ordering, Website Ordering, Delivery",Strong ordering capabilities,Higher pricing,No,No,Yes,Yes,Yes,No,No,Yes
+QRBazar Menu,qrbazar.in,India,Ordering Platform,"Juice Shops, Cafes",Freemium,"QR Menu, Contactless Menu",Easy implementation,Very limited advanced features,No,No,Yes,Yes,Basic,No,No,Yes
+OrderZ,orderz.in,India,Ordering Platform,Small Restaurants,Paid,"Online Ordering, Restaurant Website, Payments",Good customer ordering experience,Limited inventory management,No,No,Yes,Yes,Yes,No,No,Yes
+EazyDiner Business,eazydiner.com,India,Restaurant OS,"Restaurants, Cafes",Paid,"Reservations, Ordering, Analytics",Strong restaurant network,Not a complete POS solution,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Swiggy Dineout Business,swiggy.com/dineout,India,Restaurant OS,"Restaurants, Cafes",Paid,"Restaurant Discovery, Offers, Reservations",Large customer reach,Dependency on Swiggy ecosystem,No,No,Yes,Yes,Yes,Yes,Yes,Yes
+Thrive Now,thrivenow.in,India,Ordering Platform,"Cafes, Small Restaurants",Paid,"Online Ordering, Loyalty, Payments",Helps restaurants increase direct orders,Limited POS capabilities,Yes,No,Yes,Yes,Yes,Yes,Yes,Yes
+BakeERP,bakeerp.com,India,Erp + Pos,Bakeries,Paid,"Bakery Production, Inventory, Order Management",Bakery-focused operations,Limited cafe/restaurant features,Yes,Yes,No,No,Yes,No,Yes,Yes
+Bakery365,bakery365.in,India,Bakery Software,Bakeries,Paid,"Bakery Orders, Inventory, Production Planning",Specialized bakery management,Smaller ecosystem and integrations,Yes,Yes,Yes,No,Yes,No,Yes,Yes
