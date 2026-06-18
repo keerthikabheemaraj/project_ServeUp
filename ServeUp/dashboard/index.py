@@ -45,8 +45,6 @@ def load_data():
 
 df = load_data()
 
-st.write(df.head())
-st.write(df.columns)
 
 st.title("🍽️ JUPENTA ServeUp Market Intelligence Dashboard")
 
